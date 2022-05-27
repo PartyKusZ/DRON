@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "wysylanie_wiadomosci",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "wysylanie_wiadomosci::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wysylanie_wiadomosci-Debug-2b1d462d9245b4606e01.json",
+					"name" : "wysylanie_wiadomosci",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/build",
+		"source" : "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

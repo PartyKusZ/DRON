@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/inc  -g   -o CMakeFiles/wysylanie_wiadomosci.dir/src/Dr3D_gnuplot_api.cpp.o -c /home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/Dr3D_gnuplot_api.cpp",
+  "file": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/Dr3D_gnuplot_api.cpp"
+},
+{
+  "directory": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/inc  -g   -o CMakeFiles/wysylanie_wiadomosci.dir/src/dron.cpp.o -c /home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/dron.cpp",
+  "file": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/dron.cpp"
+},
+{
+  "directory": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/inc  -g   -o CMakeFiles/wysylanie_wiadomosci.dir/src/figury_geometryczne.cpp.o -c /home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/figury_geometryczne.cpp",
+  "file": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/figury_geometryczne.cpp"
+},
+{
+  "directory": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/inc  -g   -o CMakeFiles/wysylanie_wiadomosci.dir/src/macierz_obr.cpp.o -c /home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/macierz_obr.cpp",
+  "file": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/macierz_obr.cpp"
+},
+{
+  "directory": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/inc  -g   -o CMakeFiles/wysylanie_wiadomosci.dir/src/main.cpp.o -c /home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/main.cpp",
+  "file": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/main.cpp"
+},
+{
+  "directory": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/inc  -g   -o CMakeFiles/wysylanie_wiadomosci.dir/src/scena.cpp.o -c /home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/scena.cpp",
+  "file": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/scena.cpp"
+},
+{
+  "directory": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/inc  -g   -o CMakeFiles/wysylanie_wiadomosci.dir/src/uklad_wspolrzednych.cpp.o -c /home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/uklad_wspolrzednych.cpp",
+  "file": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/uklad_wspolrzednych.cpp"
+},
+{
+  "directory": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/inc  -g   -o CMakeFiles/wysylanie_wiadomosci.dir/src/wektor.cpp.o -c /home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/wektor.cpp",
+  "file": "/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/src/wektor.cpp"
+}
+]

@@ -1,0 +1,5 @@
+/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/build/CMakeFiles/edit_cache.dir
+/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/build/CMakeFiles/package_source.dir
+/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/build/CMakeFiles/rebuild_cache.dir
+/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/build/CMakeFiles/package.dir
+/home/kubus/Pulpit/PULPIT_Z_UBUNTU/ProgramowanieObiektoweC++/programowanie-obiektowe-projekt/zad_Dron/build/CMakeFiles/wysylanie_wiadomosci.dir
